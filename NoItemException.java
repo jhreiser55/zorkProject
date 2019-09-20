@@ -1,0 +1,1 @@
+class NoItemException extends Exception {}
